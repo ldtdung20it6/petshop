@@ -1,0 +1,3 @@
+sau khi tải về hãy vào thư mục public xóa file storage
+sau đó chạy lại lệnh
+php artisan storage:link

@@ -1,0 +1,134 @@
+.nav-height-60px{
+    height: 60px;
+}
+.nav-height-40px{
+    height: 40px;
+}
+.z-index-99{
+    z-index: 99;
+}
+.mt-10{
+    margin-top: 150px;
+}
+.w-90{
+    width: 90%;
+}
+.w-80{
+    width: 80%;
+}
+.bg-e6e6e6{
+    background-color: #e6e6e6;
+}
+.bg-blue{
+    background-color: blue;
+}
+.bg-fff{
+    background-color: #ffffff;
+}
+.color-blue{
+    color: blue;
+}
+.color-red{
+    color:red;
+}
+.color-black{
+    color: black;
+}
+.hover-text-red:hover{
+    color: red !important;
+}
+.img-banner{
+    width: 100%;
+    height: 100%;
+}
+.hover-img{
+    overflow: hidden;
+}
+.hover-img:hover img{
+    transform: scale(1.1) ;
+    transition:  0.8s;
+    opacity: 0.8;
+}
+.name{
+    color: red;
+    font-weight: bold;
+    letter-spacing: 2px;
+    bottom: 30px;
+    top: 50%;
+    left: 40%;
+    font-size: 30px;
+    text-transform: uppercase;
+    /* transform: translateX(-50%); */
+    transition: 0.3s;
+}
+.hover-name:hover .name{
+    bottom: 16%;
+}
+.name1{
+    color: red;
+    font-weight: bold;
+    letter-spacing: 2px;
+    bottom: 0px;
+    left: 40%;
+    top: 60%;
+    font-size: 18px;
+    text-transform: uppercase;
+    /* transform: translateX(-50%); */
+    transition: 0.3s;
+    opacity: 0;
+}
+.hover-name1:hover .name1{
+    bottom: 4%;
+    opacity: 1;
+}
+.img-product{
+    width: 100%;
+    height: 300px;
+}
+.name-product{
+    font-family: 'Courier New', Courier, monospace;
+}
+.name-product:hover{
+    color: red !important;
+}
+.hover-more:hover{
+    background-color: black !important;
+    color: white !important;
+}
+.bg-pet{
+    background-image: url("https://previews.123rf.com/images/cnuisin/cnuisin1911/cnuisin191100292/136543326-dog-bone-paw-seamless-pattern-vector-pet-footprint-french-bulldog-scarf-isolated-cartoon-repeat-wall.jpg");
+    background-size: 100%;
+    width: 100%;
+    height: 300px;
+}
+.bg-title{
+    background-image: url(http://hachikopetshop.vn/images/tittle_bg.png);
+}
+.hover-icon:hover{
+    opacity: 0.6;
+}
+
+.dropdown-menu{
+    display: none !important;
+}
+.dropdown:hover .dropdown-menu{
+    display: block !important;
+}
+.hover-cart:hover{
+    background-color: rgba(0, 128, 0, 0.555);
+}
+.padding{
+    padding: 6px;
+}
+.fs-design{
+    font-size: 16px;
+    font-weight: 600;
+    color: black;
+}
+.fs-design:hover{
+    color: #f68930;
+}
+.img-banner:hover{
+    opacity: 0.6;
+    transition: 0.6s;
+}
